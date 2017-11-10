@@ -1,7 +1,4 @@
-
-
-
-var topics = ["cat", "rat", "dinosaur", "fox", "kangaroo", "beaver", "snake", "panda", "dragon", "squirrel"];
+var topics = ["cat", "rat", "dinosaur", "fox", "kangaroo", "dragon", "dog", "squirrel", "rabbit", "snake"];
 
 function topicButtons(animalIndex)
 {
